@@ -51,8 +51,8 @@ SurveyApp/
 │           │   └── drawable/
 │           │       └── r.png
 │           └── AndroidManifest.xml
-└── Project_Report.docx
-'''
+└── Project_Report.pdf
+
 --- 
 
 ## 📸 Screenshots
@@ -96,6 +96,7 @@ For detailed explanation, check the full project report:
 This project is for **educational purposes** (Mobile Application Development course project).
 Feel free to fork, modify, and learn from it.
 
+---
 
 
 
