@@ -1,7 +1,4 @@
 
----
-
-```markdown
 # 📱 SurveyApp
 
 SurveyApp is a simple Android application built using **Java** and **XML** in Android Studio.  
@@ -71,7 +68,7 @@ SurveyApp/
 1. Clone this repository:
    ```bash
    git clone https://github.com/TejeswaraReddy-Annapureddy/SurveyApp.git
-````
+``
 
 2. Open the project in **Android Studio**.
 3. Sync Gradle and build the project.
@@ -100,5 +97,5 @@ For detailed explanation, check the full project report:
 This project is for **educational purposes** (Mobile Application Development course project).
 Feel free to fork, modify, and learn from it.
 
-```
+
 
