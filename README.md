@@ -58,10 +58,10 @@ SurveyApp/
 ## 📸 Screenshots
 
 ### Survey Form Screen
-![Survey Form](screenshots/Survey_Form.png)
+![Survey Form](Screenshots/Survey_Form.png)
 
 ### Survey Result Screen
-![Survey Result](screenshots/Survey_Result.png)
+![Survey Result](Screenshots/Survey_Result.png)
 
 ---
 
@@ -95,6 +95,7 @@ For detailed explanation, check the full project report:
 
 This project is for **educational purposes** (Mobile Application Development course project).
 Feel free to fork, modify, and learn from it.
+
 
 
 
