@@ -53,16 +53,15 @@ SurveyApp/
 │           └── AndroidManifest.xml
 └── Project_Report.docx
 '''
----
+--- 
 
 ## 📸 Screenshots
-> *(Add screenshots of your app here – upload images to `/assets` or drag & drop into README)*
 
-- **Survey Form Screen**  
-  Collects user details and feedback.  
+### Survey Form Screen
+![Survey Form](screenshots/survey_form.png)
 
-- **Survey Result Screen**  
-  Displays results in a ListView with custom adapter.  
+### Survey Result Screen
+![Survey Result](screenshots/survey_result.png)
 
 ---
 
@@ -96,6 +95,7 @@ For detailed explanation, check the full project report:
 
 This project is for **educational purposes** (Mobile Application Development course project).
 Feel free to fork, modify, and learn from it.
+
 
 
 
