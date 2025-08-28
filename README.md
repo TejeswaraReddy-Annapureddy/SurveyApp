@@ -30,26 +30,29 @@ It demonstrates form handling, passing data between activities, and displaying r
 - **UI:** XML Layouts (ConstraintLayout, LinearLayout, Custom Views)
 
 ---
-
-## 📂 Project Structure
-```
+## Project Structure
 
 SurveyApp/
-├── app/src/main/java/com/example/surveyapp/
-│   ├── MainActivity.java
-│   ├── SecondActivity.java
-│   ├── adapters.java
-│   └── tej.java
-├── app/src/main/res/layout/
-│   ├── activity\_main.xml
-│   ├── activity\_second.xml
-│   └── custom\_layout.xml
-├── app/src/main/res/drawable/
-│   └── r.png
-├── app/src/main/AndroidManifest.xml
-└── Project\_Report.docx   (original documentation)
-
-````
+├── app/
+│   └── src/
+│       └── main/
+│           ├── java/
+│           │   └── com/
+│           │       └── example/
+│           │           └── surveyapp/
+│           │               ├── MainActivity.java
+│           │               ├── SecondActivity.java
+│           │               ├── adapters.java
+│           │               └── tej.java
+│           ├── res/
+│           │   ├── layout/
+│           │   │   ├── activity_main.xml
+│           │   │   ├── activity_second.xml
+│           │   │   └── custom_layout.xml
+│           │   └── drawable/
+│           │       └── r.png
+│           └── AndroidManifest.xml
+└── Project_Report.docx
 
 ---
 
@@ -98,6 +101,4 @@ This project is for **educational purposes** (Mobile Application Development cou
 Feel free to fork, modify, and learn from it.
 
 ```
-
----
 
