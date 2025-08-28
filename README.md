@@ -28,10 +28,14 @@ It demonstrates form handling, passing data between activities, and displaying r
 
 ---
 
-'''
+
 ## Project Structure
 
+```
 SurveyApp/
+├── Screenshots
+│   └── Survey_Form.png
+│   └── Survey_Result.png
 ├── app/
 │   └── src/
 │       └── main/
@@ -51,7 +55,10 @@ SurveyApp/
 │           │   └── drawable/
 │           │       └── r.png
 │           └── AndroidManifest.xml
-└── Project_Report.pdf
+└──.gitignore
+└── README.md
+└── SurveyApp_Report.pdf
+```
 
 --- 
 
@@ -97,6 +104,7 @@ This project is for **educational purposes** (Mobile Application Development cou
 Feel free to fork, modify, and learn from it.
 
 ---
+
 
 
 
