@@ -68,8 +68,6 @@ SurveyApp/
 1. Clone this repository:
    ```bash
    git clone https://github.com/TejeswaraReddy-Annapureddy/SurveyApp.git
-``
-
 2. Open the project in **Android Studio**.
 3. Sync Gradle and build the project.
 4. Run on emulator or physical device.
@@ -79,7 +77,7 @@ SurveyApp/
 ## 📖 Documentation
 
 For detailed explanation, check the full project report:
-[`Project_Report.docx`](Project_Report.docx)
+[`Project_Report.docx`](Survey_App_Report.docx)
 
 ---
 
@@ -87,8 +85,8 @@ For detailed explanation, check the full project report:
 
 **Tejeswara Reddy Annapureddy**
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/tejeswarareddy-annapureddy)
-* 📧 [tejeswarareddy@example.com](mailto:tejeswarareddy@example.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/tejeswara-reddy/)
+* 📧 [tejeswarreddy134@gmail.com](mailto:tejeswarreddy134@gmail.com)
 
 ---
 
@@ -96,6 +94,7 @@ For detailed explanation, check the full project report:
 
 This project is for **educational purposes** (Mobile Application Development course project).
 Feel free to fork, modify, and learn from it.
+
 
 
 
