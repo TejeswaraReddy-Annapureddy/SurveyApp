@@ -27,6 +27,8 @@ It demonstrates form handling, passing data between activities, and displaying r
 - **UI:** XML Layouts (ConstraintLayout, LinearLayout, Custom Views)
 
 ---
+
+'''
 ## Project Structure
 
 SurveyApp/
@@ -50,7 +52,7 @@ SurveyApp/
 │           │       └── r.png
 │           └── AndroidManifest.xml
 └── Project_Report.docx
-
+'''
 ---
 
 ## 📸 Screenshots
@@ -94,6 +96,7 @@ For detailed explanation, check the full project report:
 
 This project is for **educational purposes** (Mobile Application Development course project).
 Feel free to fork, modify, and learn from it.
+
 
 
 
